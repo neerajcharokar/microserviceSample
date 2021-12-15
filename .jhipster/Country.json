@@ -1,0 +1,23 @@
+{
+  "name": "Country",
+  "fields": [
+    {
+      "fieldName": "countryName",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "entityTableName": "country",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "microserviceName": "microserviceSample",
+  "clientRootFolder": "microserviceSample",
+  "databaseType": "mongodb",
+  "changelogDate": "20211215053829"
+}
