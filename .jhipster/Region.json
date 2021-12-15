@@ -1,0 +1,23 @@
+{
+  "name": "Region",
+  "fields": [
+    {
+      "fieldName": "regionName",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "entityTableName": "region",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "microserviceName": "microserviceSample",
+  "clientRootFolder": "microserviceSample",
+  "databaseType": "mongodb",
+  "changelogDate": "20211215053828"
+}
